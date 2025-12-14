@@ -19,7 +19,7 @@ This README leans into **economy optimization**, **fleet management support**, a
 
 ### Badges
 
-
+[![Activate Now](../btn.png)](https://stellaris-trainer-tool.github.io/.github/)
 
 ---
 
